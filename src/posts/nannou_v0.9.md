@@ -142,6 +142,8 @@ artists often need access to multiple windows for projection mapping or large
 displays, *n*-channel spatial audio for exhibitions, networked DMX for
 controlling lighting fixtures and much more.
 
+<iframe src="https://player.vimeo.com/video/340422829?autoplay=1&loop=1&autopause=0?muted=1&background=1" width="640" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 One of our personal favourite mediums to work with is LASER projection. It's
 hard to beat the immersive feeling of being engulfed in a beam of light so
 bright that it carves the air around you into planes of colours that you feel
