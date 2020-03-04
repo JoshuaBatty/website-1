@@ -277,6 +277,18 @@ const IndexPage = ({ data }, props) => {
         </div>
       </div>
       <Footer />
+      <div className={styles.credits}>
+        Sketches by{" "}
+        <a
+          href="https://www.instagram.com/mactuitui/"
+          aria-label="Guide"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {" "}
+          MacTuiTui
+        </a>
+      </div>
     </div>
   )
 }
